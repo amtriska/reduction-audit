@@ -34,3 +34,6 @@ default; with both off it behaves exactly as upstream.
 The code in this repository is released under CC0-1.0 (see `LICENSE`), except
 `reduction_audit/_vendored_sympy_gb.py`, which is derived from SymPy and is distributed under
 SymPy's BSD-3-Clause license, reproduced in that file and in `LICENSES/SymPy-LICENSE`.
+
+## Zenodo
+Zenodo repository link: [![DOI](https://zenodo.org/badge/1430068997.svg)](https://doi.org/10.5281/zenodo.23576161)

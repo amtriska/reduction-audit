@@ -1,0 +1,83 @@
+{
+ "system": "minors-2x4-generic",
+ "n": 8,
+ "m": 6,
+ "predicted_total": 8,
+ "plain": {
+  "zero_reductions": 10,
+  "genuine": 8,
+  "redundant": [
+   [
+    2,
+    [
+     0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     1
+    ]
+   ],
+   [
+    1,
+    [
+     0,
+     0,
+     1,
+     0,
+     0,
+     0,
+     0,
+     1
+    ]
+   ]
+  ],
+  "unexplained": [],
+  "missed": [],
+  "sig_comparable": 25,
+  "sig_rewritable": 6,
+  "sig_syzygy": 0,
+  "basis_size": 6,
+  "same_basis_as_plain": true
+ },
+ "keep_zeros": {
+  "zero_reductions": 9,
+  "genuine": 8,
+  "redundant": [
+   [
+    2,
+    [
+     0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     1
+    ]
+   ]
+  ],
+  "unexplained": [],
+  "missed": [],
+  "sig_comparable": 24,
+  "sig_rewritable": 8,
+  "sig_syzygy": 0,
+  "basis_size": 6,
+  "same_basis_as_plain": true
+ },
+ "syzygy_criterion": {
+  "zero_reductions": 8,
+  "genuine": 8,
+  "redundant": [],
+  "unexplained": [],
+  "missed": [],
+  "sig_comparable": 25,
+  "sig_rewritable": 6,
+  "sig_syzygy": 2,
+  "basis_size": 6,
+  "same_basis_as_plain": true
+ }
+}

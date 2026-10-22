@@ -1,0 +1,42 @@
+{
+ "system": "mq-3-4-s1-p32003",
+ "n": 3,
+ "m": 4,
+ "predicted_total": 3,
+ "plain": {
+  "zero_reductions": 3,
+  "genuine": 3,
+  "redundant": [],
+  "unexplained": [],
+  "missed": [],
+  "sig_comparable": 8,
+  "sig_rewritable": 2,
+  "sig_syzygy": 0,
+  "basis_size": 6,
+  "same_basis_as_plain": true
+ },
+ "keep_zeros": {
+  "zero_reductions": 3,
+  "genuine": 3,
+  "redundant": [],
+  "unexplained": [],
+  "missed": [],
+  "sig_comparable": 8,
+  "sig_rewritable": 2,
+  "sig_syzygy": 0,
+  "basis_size": 6,
+  "same_basis_as_plain": true
+ },
+ "syzygy_criterion": {
+  "zero_reductions": 3,
+  "genuine": 3,
+  "redundant": [],
+  "unexplained": [],
+  "missed": [],
+  "sig_comparable": 8,
+  "sig_rewritable": 2,
+  "sig_syzygy": 0,
+  "basis_size": 6,
+  "same_basis_as_plain": true
+ }
+}

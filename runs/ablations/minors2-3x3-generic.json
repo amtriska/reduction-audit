@@ -1,0 +1,268 @@
+{
+ "system": "minors2-3x3-generic",
+ "n": 9,
+ "m": 9,
+ "predicted_total": 17,
+ "plain": {
+  "zero_reductions": 29,
+  "genuine": 17,
+  "redundant": [
+   [
+    5,
+    [
+     0,
+     0,
+     1,
+     0,
+     2,
+     0,
+     0,
+     0,
+     0
+    ]
+   ],
+   [
+    4,
+    [
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     0,
+     0,
+     1
+    ]
+   ],
+   [
+    4,
+    [
+     0,
+     0,
+     0,
+     0,
+     1,
+     1,
+     0,
+     0,
+     0
+    ]
+   ],
+   [
+    4,
+    [
+     0,
+     0,
+     1,
+     0,
+     1,
+     0,
+     0,
+     0,
+     0
+    ]
+   ],
+   [
+    3,
+    [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     1
+    ]
+   ],
+   [
+    2,
+    [
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     0,
+     0,
+     1
+    ]
+   ],
+   [
+    2,
+    [
+     0,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1
+    ]
+   ],
+   [
+    2,
+    [
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     0,
+     1,
+     0
+    ]
+   ],
+   [
+    2,
+    [
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     0,
+     1,
+     0
+    ]
+   ],
+   [
+    2,
+    [
+     0,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     0
+    ]
+   ],
+   [
+    1,
+    [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     1
+    ]
+   ],
+   [
+    1,
+    [
+     0,
+     0,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1
+    ]
+   ]
+  ],
+  "unexplained": [],
+  "missed": [],
+  "sig_comparable": 66,
+  "sig_rewritable": 18,
+  "sig_syzygy": 0,
+  "basis_size": 9,
+  "same_basis_as_plain": true
+ },
+ "keep_zeros": {
+  "zero_reductions": 21,
+  "genuine": 17,
+  "redundant": [
+   [
+    4,
+    [
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     0,
+     0,
+     1
+    ]
+   ],
+   [
+    4,
+    [
+     0,
+     0,
+     0,
+     0,
+     1,
+     1,
+     0,
+     0,
+     0
+    ]
+   ],
+   [
+    2,
+    [
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     0,
+     0,
+     1
+    ]
+   ],
+   [
+    2,
+    [
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     0,
+     1,
+     0
+    ]
+   ]
+  ],
+  "unexplained": [],
+  "missed": [],
+  "sig_comparable": 65,
+  "sig_rewritable": 27,
+  "sig_syzygy": 0,
+  "basis_size": 9,
+  "same_basis_as_plain": true
+ },
+ "syzygy_criterion": {
+  "zero_reductions": 17,
+  "genuine": 17,
+  "redundant": [],
+  "unexplained": [],
+  "missed": [],
+  "sig_comparable": 66,
+  "sig_rewritable": 18,
+  "sig_syzygy": 12,
+  "basis_size": 9,
+  "same_basis_as_plain": true
+ }
+}

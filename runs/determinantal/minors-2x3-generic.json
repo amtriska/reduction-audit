@@ -1,0 +1,81 @@
+{
+ "system": "minors-2x3-generic",
+ "predicted": {
+  "1": [
+   [
+    0,
+    0,
+    0,
+    0,
+    0,
+    1
+   ],
+   [
+    0,
+    0,
+    1,
+    0,
+    0,
+    0
+   ]
+  ]
+ },
+ "syzygy_degrees": {
+  "1": [
+   [
+    [
+     0,
+     0,
+     0,
+     0,
+     0,
+     1
+    ],
+    3
+   ],
+   [
+    [
+     0,
+     0,
+     1,
+     0,
+     0,
+     0
+    ],
+    3
+   ]
+  ]
+ },
+ "genuine": [
+  [
+   1,
+   [
+    0,
+    0,
+    0,
+    0,
+    0,
+    1
+   ]
+  ],
+  [
+   1,
+   [
+    0,
+    0,
+    1,
+    0,
+    0,
+    0
+   ]
+  ]
+ ],
+ "redundant": [],
+ "unexplained": [],
+ "missed": [],
+ "beta1": 2,
+ "beta1_source": "Eagon-Northcott",
+ "redundant_count": 0,
+ "same_basis": true,
+ "syz_clean": true
+}

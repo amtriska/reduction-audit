@@ -1,0 +1,33 @@
+{
+ "system": "rnc-4",
+ "residuals": [
+  {
+   "signature": [
+    3,
+    [
+     0,
+     0,
+     1,
+     0,
+     1
+    ]
+   ],
+   "pair_polynomial_num": 13,
+   "dividing_zero_results": [
+    {
+     "signature": [
+      3,
+      [
+       0,
+       0,
+       0,
+       0,
+       1
+      ]
+     ],
+     "num": 11
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "system": "katsura-4",
+ "n": 5,
+ "m": 5,
+ "predicted_total": 0,
+ "plain": {
+  "zero_reductions": 0,
+  "genuine": 0,
+  "redundant": [],
+  "unexplained": [],
+  "missed": [],
+  "sig_comparable": 62,
+  "sig_rewritable": 33,
+  "sig_syzygy": 0,
+  "basis_size": 13,
+  "same_basis_as_plain": true
+ },
+ "keep_zeros": {
+  "zero_reductions": 0,
+  "genuine": 0,
+  "redundant": [],
+  "unexplained": [],
+  "missed": [],
+  "sig_comparable": 62,
+  "sig_rewritable": 33,
+  "sig_syzygy": 0,
+  "basis_size": 13,
+  "same_basis_as_plain": true
+ },
+ "syzygy_criterion": {
+  "zero_reductions": 0,
+  "genuine": 0,
+  "redundant": [],
+  "unexplained": [],
+  "missed": [],
+  "sig_comparable": 62,
+  "sig_rewritable": 33,
+  "sig_syzygy": 0,
+  "basis_size": 13,
+  "same_basis_as_plain": true
+ }
+}

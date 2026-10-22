@@ -1,0 +1,42 @@
+{
+ "system": "trap",
+ "n": 3,
+ "m": 2,
+ "predicted_total": 0,
+ "plain": {
+  "zero_reductions": 0,
+  "genuine": 0,
+  "redundant": [],
+  "unexplained": [],
+  "missed": [],
+  "sig_comparable": 1,
+  "sig_rewritable": 1,
+  "sig_syzygy": 0,
+  "basis_size": 3,
+  "same_basis_as_plain": true
+ },
+ "keep_zeros": {
+  "zero_reductions": 0,
+  "genuine": 0,
+  "redundant": [],
+  "unexplained": [],
+  "missed": [],
+  "sig_comparable": 1,
+  "sig_rewritable": 1,
+  "sig_syzygy": 0,
+  "basis_size": 3,
+  "same_basis_as_plain": true
+ },
+ "syzygy_criterion": {
+  "zero_reductions": 0,
+  "genuine": 0,
+  "redundant": [],
+  "unexplained": [],
+  "missed": [],
+  "sig_comparable": 1,
+  "sig_rewritable": 1,
+  "sig_syzygy": 0,
+  "basis_size": 3,
+  "same_basis_as_plain": true
+ }
+}

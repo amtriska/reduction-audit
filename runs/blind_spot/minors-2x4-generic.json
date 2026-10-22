@@ -1,0 +1,39 @@
+{
+ "system": "minors-2x4-generic",
+ "residuals": [
+  {
+   "signature": [
+    2,
+    [
+     0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     1
+    ]
+   ],
+   "pair_polynomial_num": 13,
+   "dividing_zero_results": [
+    {
+     "signature": [
+      2,
+      [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1
+      ]
+     ],
+     "num": 12
+    }
+   ]
+  }
+ ]
+}

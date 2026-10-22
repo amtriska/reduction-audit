@@ -1,0 +1,104 @@
+{
+ "system": "rnc-4",
+ "n": 5,
+ "m": 6,
+ "predicted_total": 8,
+ "plain": {
+  "zero_reductions": 13,
+  "genuine": 8,
+  "redundant": [
+   [
+    3,
+    [
+     0,
+     0,
+     1,
+     0,
+     1
+    ]
+   ],
+   [
+    2,
+    [
+     0,
+     0,
+     1,
+     0,
+     1
+    ]
+   ],
+   [
+    1,
+    [
+     0,
+     0,
+     0,
+     0,
+     2
+    ]
+   ],
+   [
+    1,
+    [
+     0,
+     0,
+     0,
+     1,
+     1
+    ]
+   ],
+   [
+    1,
+    [
+     0,
+     0,
+     1,
+     0,
+     1
+    ]
+   ]
+  ],
+  "unexplained": [],
+  "missed": [],
+  "sig_comparable": 28,
+  "sig_rewritable": 9,
+  "sig_syzygy": 0,
+  "basis_size": 6,
+  "same_basis_as_plain": true
+ },
+ "keep_zeros": {
+  "zero_reductions": 9,
+  "genuine": 8,
+  "redundant": [
+   [
+    3,
+    [
+     0,
+     0,
+     1,
+     0,
+     1
+    ]
+   ]
+  ],
+  "unexplained": [],
+  "missed": [],
+  "sig_comparable": 25,
+  "sig_rewritable": 16,
+  "sig_syzygy": 0,
+  "basis_size": 6,
+  "same_basis_as_plain": true
+ },
+ "syzygy_criterion": {
+  "zero_reductions": 8,
+  "genuine": 8,
+  "redundant": [],
+  "unexplained": [],
+  "missed": [],
+  "sig_comparable": 28,
+  "sig_rewritable": 9,
+  "sig_syzygy": 5,
+  "basis_size": 6,
+  "same_basis_as_plain": true
+ }
+}

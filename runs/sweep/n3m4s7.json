@@ -1,0 +1,90 @@
+{
+ "system": "mq-3-4-s7-p32003",
+ "predicted": {
+  "2": [
+   [
+    1,
+    1,
+    0
+   ]
+  ],
+  "1": [
+   [
+    0,
+    0,
+    1
+   ],
+   [
+    0,
+    1,
+    0
+   ]
+  ]
+ },
+ "syzygy_degrees": {
+  "2": [
+   [
+    [
+     1,
+     1,
+     0
+    ],
+    4
+   ]
+  ],
+  "1": [
+   [
+    [
+     0,
+     0,
+     1
+    ],
+    3
+   ],
+   [
+    [
+     0,
+     1,
+     0
+    ],
+    3
+   ]
+  ]
+ },
+ "genuine": [
+  [
+   2,
+   [
+    1,
+    1,
+    0
+   ]
+  ],
+  [
+   1,
+   [
+    0,
+    0,
+    1
+   ]
+  ],
+  [
+   1,
+   [
+    0,
+    1,
+    0
+   ]
+  ]
+ ],
+ "redundant": [],
+ "unexplained": [],
+ "missed": [],
+ "n": 3,
+ "m": 4,
+ "seed": 7,
+ "same_basis": true,
+ "syz_clean": true,
+ "keep_zeros_redundant": [],
+ "keep_zeros_explained": true
+}

@@ -1,0 +1,149 @@
+{
+ "system": "minors2-3x3-generic",
+ "residuals": [
+  {
+   "signature": [
+    4,
+    [
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     0,
+     0,
+     1
+    ]
+   ],
+   "pair_polynomial_num": 20,
+   "dividing_zero_results": [
+    {
+     "signature": [
+      4,
+      [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1
+      ]
+     ],
+     "num": 18
+    }
+   ]
+  },
+  {
+   "signature": [
+    4,
+    [
+     0,
+     0,
+     0,
+     0,
+     1,
+     1,
+     0,
+     0,
+     0
+    ]
+   ],
+   "pair_polynomial_num": 20,
+   "dividing_zero_results": [
+    {
+     "signature": [
+      4,
+      [
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0
+      ]
+     ],
+     "num": 19
+    }
+   ]
+  },
+  {
+   "signature": [
+    2,
+    [
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     0,
+     0,
+     1
+    ]
+   ],
+   "pair_polynomial_num": 30,
+   "dividing_zero_results": [
+    {
+     "signature": [
+      2,
+      [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1
+      ]
+     ],
+     "num": 27
+    }
+   ]
+  },
+  {
+   "signature": [
+    2,
+    [
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     0,
+     1,
+     0
+    ]
+   ],
+   "pair_polynomial_num": 30,
+   "dividing_zero_results": [
+    {
+     "signature": [
+      2,
+      [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0
+      ]
+     ],
+     "num": 28
+    }
+   ]
+  }
+ ]
+}
